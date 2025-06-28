@@ -1,1 +1,48 @@
-<b>HI IAM MERAJ</b>
+<h1 align="center">Hi 👋, I'm Meraj Mehraj</h1>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | 💻 Tech Explorer | 🎯 30+ LPA Dreamer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **AI/ML projects and portfolio building**
+- 🌱 I’m learning **Python, GitHub, Prompt Engineering, and Deep Learning**
+- 🤝 I’m looking to collaborate on **open source AI tools**
+- 💬 Ask me about **Python, Prompt Engineering, or Web Hosting**
+- 📫 Reach me at: **meraj.md5862@gmail.com**
+- ⚡ Fun fact: I believe consistency beats talent. I'm coding 14 hrs/day 😎
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,vscode,vercel,linux,react" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=merajstack&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merajstack&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://your-portfolio-link.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:meraj.md5862@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+_💡 This README auto-updates with passion and caffeine ☕_
