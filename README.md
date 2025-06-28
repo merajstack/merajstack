@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meraj Mehraj</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | 💻 Tech Explorer | 🎯 30+ LPA Dreamer</h3>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | 💻 Tech Explorer |  🚀 Future-focused engineer aiming for global tech opportunities.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
