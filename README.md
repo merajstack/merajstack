@@ -21,17 +21,12 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,vscode,vercel,linux,react" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,cpp,bash,github,git,vscode,vercel" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=merajstack&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merajstack&layout=compact&theme=radical" height="180"/>
-</p>
 
 ---
 
