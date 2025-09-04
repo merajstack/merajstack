@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meraj-mohammed-526564362/" target="_main"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://stellar-meraj-portfolio-merajstacks-projects.vercel.app/" target="_main"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="[https://stellar-meraj-portfolio-merajstacks-projects.vercel.app/](https://meraj-two.vercel.app/)" target="_main"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:meraj.md5862@gmail.com" target="_main"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/u/__meraj__07/" target="_main"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
