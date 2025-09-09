@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meraj Mehraj</h1>
+<h1 align="center">Hi 👋, I'm Meraj </h1>
 <h3 align="center">🚀 Aspiring AI/ML Engineer | 💻 Tech Explorer |  🚀 Future-focused engineer aiming for global tech opportunities.</h3>
 
 <p align="center">
