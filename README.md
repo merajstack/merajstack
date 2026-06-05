@@ -20,7 +20,7 @@
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,cpp,bash,github,git,vscode,vercel,tailwind,js,flask" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,cpp,bash,github,git,vscode,vercel," />
 </p>
 
 ---
