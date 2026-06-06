@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meraj </h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=1D9E75&center=true&vCenter=true&width=480&lines=python+full_stack_engineer.py+%F0%9F%90%8D;git+push+origin+main+%F0%9F%9A%80;coding+14hrs%2Fday+%F0%9F%94%A5;open+source+%2B+AI+tools+%F0%9F%A4%96;building+for+global+impact+%F0%9F%8C%8D" alt="Typing SVG" />
+</div>
 <h3 align="center">Aspiring Full-Stack  Engineer | 💻 Tech Explorer | Future-focused engineer aiming for global tech opportunities.</h3>
 
 <p align="center">
