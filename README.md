@@ -1,9 +1,7 @@
 # 𝐇𝐢, 𝐈'𝐦 𝐌𝐞𝐫𝐚𝐣
 
 **Full-Stack Engineer · AI Explorer · Hyderabad**
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=1D9E75&center=true&vCenter=true&width=480&lines=python+full_stack_engineer.py;git+push+origin+main;coding+14hrs%2Fday+%F0%9F%94%A5;open+source+%2B+AI+tools;building+for+global+impact+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
+
 ---
 
 <p align="center">
